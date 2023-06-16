@@ -1,0 +1,51 @@
+a {
+align-items: center;
+justify-content: center;
+}
+label:hover{
+    font-weight: bold;
+    cursor:pointer;
+}
+input{
+    cursor:pointer;
+}
+.w-25:hover{
+    font-weight: bold;
+}
+.limpar{
+    border: 1px solid #000; 
+    background-color: #ccc;
+    padding: 2px;
+    text-decoration: none;
+    color:black;
+    width:280px ;
+    text-align: center;
+
+    
+}
+.limpar:hover{
+    font-weight: bold;
+    transition: 0.1s;
+    background-color: rgb(138, 206, 206);
+}
+body{
+    background-color: rgb(153, 209, 209);
+    
+}
+
+.bloco{
+    font-weight: bold;
+    padding: 2px;
+    text-decoration: none;
+    color:black;
+    text-align: center;
+   
+    
+}
+
+ 
+  
+.alert{
+    text-align: center;
+}  
+
